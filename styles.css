@@ -1,0 +1,38 @@
+nav{
+background: #FFC8DD ;
+height: 50px;
+font-size: larger;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+}
+a{
+    text-decoration: #0757A1;
+}
+h1{
+    color: #CDB4DB;
+}
+h2{
+    color:#FFAFCC ;
+    text-decoration: underline;
+}
+dt{
+    border: dotted 2px #0757A1 ;
+    width: 80px;
+    color: #7B72FC;
+}
+h3{
+    color: red;
+}
+img{
+    width: 50% ; 
+    height: 20%;
+}
+#white{
+    border: 2px black solid;
+}
+table{
+    border: double 2px black;
+}
+th,td{
+    border: solid 1px black;
+}
